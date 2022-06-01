@@ -1,0 +1,12 @@
+ephem == 3.7.7.1
+cython == 0.29.28
+fbprophet == 0.7.1
+cmdstanpy == 0.9.5
+numpy == 1.21.6
+
+
+pystan==2.19.1.1
+plotly==5.7.0
+streamlit==1.8.1
+yfinance==0.1.70
+
